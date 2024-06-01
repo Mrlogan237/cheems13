@@ -16,19 +16,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Darki Bot MD V13' //ur bot name
-global.ownernumber = '22871255034' //ur owner number
-global.ownername = '❄️Raizen Darki Linkid' //ur owner name
+global.botname = 'BLACK WARRIORS 2.0' //ur bot name
+global.ownernumber = '237670507356' //ur owner number
+global.ownername = 'LOGAN DIEUNEDORT ' //ur owner name
 global.websitex = "https://youtu.be/N3kyujoG3vk"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '❄️'
+global.themeemoji = '🍂'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
-global.author = "❄️Raizen"
-global.creator = "22871255034@s.whatsapp.net"
+global.author = "LOGAN DIEUNEDORT"
+global.creator = "237670507356@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["22871255034"] // Premium User
+global.premium = ["237670507356"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -39,8 +39,8 @@ global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
