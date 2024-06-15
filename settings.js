@@ -18,9 +18,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = 'BLACK WARRIORS 2.0' //ur bot name
 global.ownernumber = '237670507356' //ur owner number
-global.ownername = 'LOGAN DIEUNEDORT ' //ur owner name
+global.ownername = '꧂█▬█ █ ▀█▀꧁✮🇲 🆁  🅛𝗢𝗚𝗔𝗡❋꧂' //ur owner name
 global.websitex = "https://youtu.be/N3kyujoG3vk"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.wagc = "https://chat.whatsapp.com/JQ1dPUBap3U2pS9SHqwzh9"
 global.themeemoji = '🍂'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
