@@ -16,18 +16,18 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'BLACK WARRIORS 2.0' //ur bot name
+global.botname = '🆃🅷🅴 🅰🅽🅶🅴🅻 🅾🅵 🆃🅷🅴 🅳🅴🅰🆃🅷' //ur bot name
 global.ownernumber = '237670507356' //ur owner number
 global.ownername = '꧂█▬█ █ ▀█▀꧁✮🇲 🆁  🅛𝗢𝗚𝗔𝗡❋꧂' //ur owner name
 global.websitex = "https://youtu.be/N3kyujoG3vk"
 global.wagc = "https://chat.whatsapp.com/JQ1dPUBap3U2pS9SHqwzh9"
-global.themeemoji = '🍂'
+global.themeemoji = '🌊'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
 global.author = "LOGAN DIEUNEDORT"
 global.creator = "237670507356@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '.','-',' ', ':','#'
 global.premium = ["237670507356"] // Premium User
 global.hituet = 0
 
